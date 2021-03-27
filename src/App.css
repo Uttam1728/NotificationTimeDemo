@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.div1{
+  list-style: none;
+  margin-top: 40px;
+  margin-left: 0;
+}
+
+.div2{
+  margin-left: 20%;
+  margin-top: 40px;
+  width: 15%;
+}
+
+.main-div1{
+  margin-top:25px;
+  margin-left:20px;
+  
+}
+
+.show_data{
+  width: 100%;
+  height: auto;
+  background-color: coral;
+  margin :10%;
+  margin-left: 10%;
+  
+  border : 1 px black solid;
+  padding: 5%;
+  color:darkblue;
+}
+
+.font1{
+  margin-left: 25px;
+  color: white;
+}
+
+.input{
+  width: 200px;
+}
+li{
+  display: inline-block;
+}
+.btn1{
+  margin-left: 160px;
+}
